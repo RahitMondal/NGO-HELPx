@@ -1,0 +1,10 @@
+.team {
+  min-height: 80vh;
+}
+.card img {
+  height: 10rem;
+  object-fit: cover;
+}
+.card {
+  margin: 0.5rem;
+}

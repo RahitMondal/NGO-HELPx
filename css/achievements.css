@@ -1,0 +1,8 @@
+.jumbotron {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 0px !important;
+  border-radius: 0rem !important;
+}
